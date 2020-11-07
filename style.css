@@ -1,0 +1,48 @@
+body {
+    text-align: center;
+    background: linear-gradient background-repeat:no-repeat;
+}
+
+h1 {
+    font-size: 20px;
+    text-align: center;
+}
+
+#bio {
+    padding: 20px;
+    font-size: 18;
+    text-align: center;
+    background: crimson;
+}
+
+img{
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+
+}
+
+p {
+    font-size: 18px;
+    color: blue;
+}
+
+.menu {
+    list-style: none;
+    font-family: cursive;
+    float: right;
+    top: 10px;
+    right: 30px;
+    cursor: pointer;
+    color: black;
+}
+
+#myname {
+    font-family: 'Grandstander', cursive;
+}
+
+.menu:hover {
+    color: fuchsia;
+}
+
+
